@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion" 
+cd /home/ec2-user/lp-juri
+nvm use 16.18.0
+/home/ec2-user/.nvm/versions/node/v16.18.0/bin/local-ssl-proxy --key /home/ec2-user/ssl/privkey.pem --cert /home/ec2-user/ssl/fullchain.pem --source 443 --target 3000 &

@@ -1,0 +1,24 @@
+version: 0.0
+os: linux
+files:
+ - source: .
+   destination: /home/ec2-user/lp-juri
+   overwrite: true
+permissions:
+ - object: /
+   pattern: "**"
+   owner: ec2-user
+   group: ec2-user
+hooks:
+  BeforeInstall:
+   - location: scripts/prepare
+     timeout: 300
+     runas: ec2-user
+  AfterInstall:
+   - location: scripts/build
+     timeout: 300
+     runas: ec2-user
+  ApplicationStart:
+   - location: scripts/start
+     timeout: 300
+     runas: ec2-user
