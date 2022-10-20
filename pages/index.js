@@ -18,10 +18,10 @@ const Index2 = () => {
                                 <div className="py-12">
                                     <div className="max-w-lg lg:max-w-md mx-auto lg:mx-0 mb-8 text-center lg:text-left">
                                         <h2 className="text-3xl lg:text-6xl mb-4 font-bold font-heading wow animate__animated animate__fadeIn">
-                                        Flexibilidade para seus clientes,<span className="text-blue-600"> tempo para você!</span>
+                                        O Meu Ninja trabalha para você enquanto você está focado<span className="text-blue-600"> no seu negócio!</span>
                                         </h2>
                                         <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn">
-                                        <span className="text-blue-600 font-bold">Meu Ninja</span> e o assistente virtual mais completo de gestão horários para profissionais liberais. Tenha acesso gratuitamente a:{" "}
+                                        <span className="text-blue-600 font-bold">O Meu Ninja</span> é seu assistente virtual pessoal mais completo para a gestão de horários para profissionais liberais e empresas. Tenha acesso gratuitamente a:{" "}
                                         <br/>
                                         
                                             <span className="typewrite d-inline text-brand">
@@ -126,7 +126,7 @@ const Index2 = () => {
                             <div className="w-full lg:w-1/2 mb-6 lg:mb-0">
                                 <h2 className="text-4xl font-bold font-heading wow animate__animated animate__fadeIn" data-wow-delay=".1s">
                                    
-                                    <span className="text-blue-600">Feita especialmente para pessoas que atendem pessoas</span>
+                                    <span className="text-blue-600">Tenha agora seu assistente virtual particular para ajudar no atendimento com seus clientes.</span>
                                    
                                 </h2>
                                 <div className="w-full lg:w-1/2 px-3 lg:bg-blueGray-10 mb-12 lg:mb-0 pb-10">
@@ -187,8 +187,8 @@ const Index2 = () => {
                                             <span className="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-blue-50 text-blue-600">1</span>
                                         </div>
                                         <div className="px-4">
-                                            <h3 className="my-4 text-xl font-semibold">Flexibilidade</h3>
-                                            <p className="text-blueGray-400 leading-loose">Deixe o Juri cuidar dos assuntos triviais, você tem um negócio para gerir.</p>
+                                            <h3 className="my-4 text-xl font-semibold">Flexibilidade e disponibilidade</h3>
+                                            <p className="text-blueGray-400 leading-loose">Deixe o Meu Ninja cuidar 24 horas por dia dos assuntos mais burocráticos enquanto você está trabalhando.</p>
                                         </div>
                                     </li>
                                     <li className="flex -mx-4 wow animate__animated animate__fadeIn" data-wow-delay=".5s">
@@ -196,8 +196,8 @@ const Index2 = () => {
                                             <span className="flex w-16 h-16 mx-auto items-center justify-center text-2xl font-bold font-heading rounded-full bg-blue-50 text-blue-600">2</span>
                                         </div>
                                         <div className="px-4">
-                                            <h3 className="my-4 text-xl font-semibold">Crescimento</h3>
-                                            <p className="text-blueGray-400 leading-loose">Trabalhe nas estratégias de venda e coloque o Juri para te ajudar neste processo.</p>
+                                            <h3 className="my-4 text-xl font-semibold">Integração e facilidade</h3>
+                                            <p className="text-blueGray-400 leading-loose">Não precisa instalar, aprender nem ensinar novos sistemas complexos.</p>
                                         </div>
                                     </li>
                                     <li className="flex -mx-4 wow animate__animated animate__fadeIn" data-wow-delay=".7s">
@@ -206,7 +206,7 @@ const Index2 = () => {
                                         </div>
                                         <div className="px-4">
                                             <h3 className="my-4 text-xl font-semibold">Satisfação</h3>
-                                            <p className="text-blueGray-400 leading-loose">Deixe seu cliente mais feliz com um atendimento rápido e humanizado.</p>
+                                            <p className="text-blueGray-400 leading-loose">Deixe seu cliente mais feliz com um atendimento rápido.</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -250,9 +250,9 @@ const Index2 = () => {
                     <div className="container">
                         <div className="text-center mb-8">
                             <h2 className="max-w-lg mx-auto mb-4 text-4xl font-bold font-heading wow animate__animated animate__fadeIn animated">
-                                <span>Os sistemas </span>
+                                <span>Sistema profissional usado por</span>
                                 <br />
-                                <span className="text-blue-600">Profissionais de grandes empresas </span>
+                                <span className="text-blue-600"> grandes empresas </span>
                                 <span>à sua disposição</span>
                             </h2>
                             <p className="max-w-sm mx-auto text-lg text-blueGray-400 wow animate__animated animate__fadeIn animated" data-wow-delay=".3s">
