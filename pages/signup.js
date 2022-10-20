@@ -14,10 +14,10 @@ const Signup = () => {
                     <div className="container">
                         <div className="text-center mb-8">
                             <h2 className="max-w-lg mx-auto mb-4 text-4xl font-bold font-heading wow animate__animated animate__fadeIn animated">
-                                <span>Vá mais longe com a  </span>
+                                <span>Tenha um </span>
                                 <br />
-                                <span className="text-blue-600">Touchworks! </span>
-                                <span></span>
+                                <span className="text-blue-600">Ninja </span>
+                                <span>para organizar sua agenda.</span>
                             </h2>
                             <p className="max-w-sm mx-auto text-sm text-blueGray-400 wow animate__animated animate__fadeIn animated" data-wow-delay=".3s">
                                 Você está muito perto de evoluir seu negócio com uma das nossas soluções de atendimento.
