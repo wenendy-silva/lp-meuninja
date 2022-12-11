@@ -49,7 +49,7 @@ const Index2 = () => {
                                         <p className="text-blue-500 leading-relaxed font-bold wow animate__animated animate__fadeIn" data-wow-delay=".4s">Tudo isso no seu WhatsApp</p>
                                     </div>
                                     <div className="text-center lg:text-left">
-                                        <a className="tracking-wide hover-up-2 block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-500 hover:bg-blue-600 rounded wow animate__animated animate__fadeIn" href="https://dashboard.touchworks.com.br/wizard">
+                                        <a className="tracking-wide hover-up-2 block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-500 hover:bg-blue-600 rounded wow animate__animated animate__fadeIn" href="https://dashboard.touchworks.com.br/signup">
                                             Teste Grátis
                                         </a>
                                        
@@ -173,7 +173,7 @@ const Index2 = () => {
                                     <p className="mb-8 leading-loose text-blueGray-400 wow animate__animated animate__fadeIn" data-wow-delay=".3s">
                                     Tenha todos seus compromissos em uma só agenda e disponibilize um Ninja para seus clientes.
                                     </p>
-                                    <Link href="https://dashboard.touchworks.com.br/wizard">
+                                    <Link href="https://dashboard.touchworks.com.br/affiliate?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY3QiOjI3LCJwcmQiOjE0LCJwbG4iOiJNTl9CQVNJQyIsImlzcyI6IlRXQyIsImV4cCI6MTcwMTgzMTYwMCwiaWF0IjoxNjcwMjk1NjAwfQ.whDBXfaQrPiRH_q1eV1aNPkm1n67tLtvYtnLUqZUGz8">
                                         <a className="inline-block text-xs py-4 px-8 text-white font-semibold leading-none bg-blue-500 hover:bg-blue-500 rounded hover-up-2 wow animate__animated animate__fadeIn" data-wow-delay=".5s">
                                             Começar Grátis
                                         </a>
@@ -299,8 +299,8 @@ const Index2 = () => {
                                     </div> 
                                         
                                     <div>
-                                        <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/wizard">
-                                            Começar Grátis
+                                        <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/affiliate?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY3QiOjI3LCJwcmQiOjE0LCJwbG4iOiJNTl9CQVNJQyIsImlzcyI6IlRXQyIsImV4cCI6MTcwMTgzMTYwMCwiaWF0IjoxNjcwMjk1NjAwfQ.whDBXfaQrPiRH_q1eV1aNPkm1n67tLtvYtnLUqZUGz8">
+                                            Quero Esse
                                         </a>
                                     </div>
                                 </div>
@@ -342,8 +342,8 @@ const Index2 = () => {
                                     </div>
                                         
                                     <div>
-                                    <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/wizard">
-                                            Começar Grátis
+                                    <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/affiliate?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY3QiOjEsInByZCI6MTQsInBsbiI6Ik1OX0VTU0VOVElBTCIsImlzcyI6IlRXQyIsImV4cCI6MTcwMTgzMTYwMCwiaWF0IjoxNjcwMjk1NjAwfQ._JThoIfrrOx5FuFvyaIuaZjQPXKu6KNdC_ftgPMgyXU">
+                                            Quero Esse
                                         </a>
 
                                     </div>
@@ -387,8 +387,8 @@ const Index2 = () => {
                                     </div>
                                        
                                     <div>
-                                    <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/wizard">
-                                            Começar Grátis
+                                    <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/affiliate?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY3QiOjEsInByZCI6MTQsInBsbiI6Ik1OX1NUQU5EQVJEIiwiaXNzIjoiVFdDIiwiZXhwIjoxNzAxODMxNjAwLCJpYXQiOjE2NzAyOTU2MDB9.yODIzcYsQcY0fBf8mwWxxvk7ld9unK4nvp_BKu6j9Qo">
+                                            Quero Esse
                                         </a>
                                       
                                     </div>

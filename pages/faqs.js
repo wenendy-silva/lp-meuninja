@@ -238,10 +238,10 @@ const Faqs = () => {
                                     </div> 
                                         <p className="mt-2 mb-8 text-blueGray-300">+ ativação</p>                                       
                                     <div>
-                                        <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/wizard">
+                                        <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/signup">
                                             Começar Grátis
                                         </a>
-                                        <a className="block sm:inline-block py-4 px-6 text-xs text-blueGray-500 hover:text-blueGray-600 text-center font-semibold leading-none bg-white border border-blueGray-200 hover:border-blueGray-300 rounded" href="https://dashboard.touchworks.com.br/wizard">
+                                        <a className="block sm:inline-block py-4 px-6 text-xs text-blueGray-500 hover:text-blueGray-600 text-center font-semibold leading-none bg-white border border-blueGray-200 hover:border-blueGray-300 rounded" href="https://dashboard.touchworks.com.br/signup">
                                             Contratar
                                         </a>
                                     </div>
@@ -295,10 +295,10 @@ const Faqs = () => {
                                     </div>
                                         <p className="mt-2 mb-8 text-blueGray-300">+ ativação</p>   
                                     <div>
-                                    <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/wizard">
+                                    <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/signup">
                                             Começar Grátis
                                         </a>
-                                        <a className="block sm:inline-block py-4 px-6 text-xs text-blueGray-500 hover:text-blueGray-600 text-center font-semibold leading-none bg-white border border-blueGray-200 hover:border-blueGray-300 rounded" href="https://dashboard.touchworks.com.br/wizard">
+                                        <a className="block sm:inline-block py-4 px-6 text-xs text-blueGray-500 hover:text-blueGray-600 text-center font-semibold leading-none bg-white border border-blueGray-200 hover:border-blueGray-300 rounded" href="https://dashboard.touchworks.com.br/signup">
                                             Contratar
                                         </a>
                                     </div>
@@ -352,10 +352,10 @@ const Faqs = () => {
                                     </div>
                                         <p className="mt-2 mb-8 text-blueGray-300">+ ativação</p>
                                     <div>
-                                    <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/wizard">
+                                    <a className="block sm:inline-block py-4 px-6 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none bg-blue-400 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/signup">
                                             Começar Grátis
                                         </a>
-                                        <a className="block sm:inline-block py-4 px-6 text-xs text-blueGray-500 hover:text-blueGray-600 text-center font-semibold leading-none bg-white border border-blueGray-200 hover:border-blueGray-300 rounded" href="https://dashboard.touchworks.com.br/wizard">
+                                        <a className="block sm:inline-block py-4 px-6 text-xs text-blueGray-500 hover:text-blueGray-600 text-center font-semibold leading-none bg-white border border-blueGray-200 hover:border-blueGray-300 rounded" href="https://dashboard.touchworks.com.br/signup">
                                             Contratar
                                         </a>
                                     </div>
@@ -414,7 +414,7 @@ const Faqs = () => {
                                         </ul>
                                     </div>
                                     <div className="w-full lg:w-1/6 self-center text-xs px-3">
-                                        <a className="block mb-2 py-4 text-center hover:text-white font-semibold bg-blueGray-200 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/wizard">
+                                        <a className="block mb-2 py-4 text-center hover:text-white font-semibold bg-blueGray-200 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/signup">
                                             R$ 647
                                         </a>
                                         <p className="text-center text-blueGray-400">700 Sessões de conversa/mês</p>
@@ -456,7 +456,7 @@ const Faqs = () => {
                                         </ul>
                                     </div>
                                     <div className="w-full lg:w-1/6 self-center text-xs px-3">
-                                        <a className="block mb-2 py-4 text-center hover:text-white font-semibold bg-blueGray-200 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/wizard">
+                                        <a className="block mb-2 py-4 text-center hover:text-white font-semibold bg-blueGray-200 hover:bg-blue-500 rounded" href="https://dashboard.touchworks.com.br/signup">
                                             R$ 1199
                                         </a>
                                         <p className="text-center text-blueGray-400">900 Sessões de conversa/mês</p>

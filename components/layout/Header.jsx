@@ -33,7 +33,7 @@ const Header = ({handleHidden}) => {
                             <Link href="https://dashboard.touchworks.com.br/signin">
                                 <a className="btn-accent hover-up-2">Entrar</a>
                             </Link>
-                            <Link href="https://dashboard.touchworks.com.br/wizard">
+                            <Link href="https://dashboard.touchworks.com.br/affiliate?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY3QiOjI3LCJwcmQiOjE0LCJwbG4iOiJNTl9CQVNJQyIsImlzcyI6IlRXQyIsImV4cCI6MTcwMTgzMTYwMCwiaWF0IjoxNjcwMjk1NjAwfQ.whDBXfaQrPiRH_q1eV1aNPkm1n67tLtvYtnLUqZUGz8">
                                 <a className="btn-primary hover-up-2">
                                     Contrate Agora
                                 </a>
