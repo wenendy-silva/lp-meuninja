@@ -294,6 +294,13 @@ const Index2 = () => {
                                                 <span>1 Agenda</span>
                                             </li>
 
+                                            <li className="flex mb-3">
+                                                <svg className="w-6 h-6 mr-2 text-green-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                                </svg>
+                                                <span>WhatsApp Compartilhado</span>
+                                            </li>
+
                                         </ul>
                                         
                                     </div> 
@@ -338,6 +345,13 @@ const Index2 = () => {
                                                 </svg>
                                                 <span>Suporte por Chat</span>
                                             </li>
+                                            <li className="flex mb-3">
+                                                <svg className="w-6 h-6 mr-2 text-green-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                                </svg>
+                                                <span>WhatsApp Compartilhado</span>
+                                            </li>
+
                                         </ul>
                                     </div>
                                         
